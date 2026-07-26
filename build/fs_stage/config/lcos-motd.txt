@@ -1,2 +1,0 @@
-Welcome to LC(OS).
-This system now ships with a Linux-like directory layout.

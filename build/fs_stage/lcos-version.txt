@@ -1,3 +1,0 @@
-LC(OS) 0.1
-Kernel: lcos.elf
-Filesystem profile: FAT12/16 + persistent overlay
